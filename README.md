@@ -1,6 +1,4 @@
-# https://www.reddit.com/r/dailyprogrammer/comments/759fha/20171009_challenge_335_easy_consecutive_distance/?sort=confidence
-
-Mine
+https://www.reddit.com/r/dailyprogrammer/comments/759fha/20171009_challenge_335_easy_consecutive_distance/?sort=confidence
 
 inputs = ["76 74 45 48 13 75 16 14 79 58 78 82 46 89 81 88 27 64 21 63",
           "37 35 88 57 55 29 96 11 25 42 24 81 82 58 15 2 3 41 43 36",
